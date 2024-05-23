@@ -1,0 +1,2 @@
+img, div, p { behavior: url(iepngfix.htc) }
+DIV { background-repeat: repeat; behavior: url("iepngfix.htc"); }

@@ -1,0 +1,273 @@
+body {
+	background: #302E33;
+	text-align: center;
+	font-family:Verdana;
+	letter-spacing:inherit;
+	font-size:0;
+	background: url(IMG/BG.png) fixed	; 
+}
+html, body{
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+img {
+	border:0;
+}
+#main {
+	margin: auto;
+	width: 1000px;
+}
+#top {
+	width:1000px;
+	height:431px;
+	padding:0;
+	margin:0;
+	float:left;
+}
+#top img{
+	float:left;
+}
+.top_bot {
+	margin-left:10px;
+}
+#main_bg {
+	background: url(IMG/MAIN_BG.gif) repeat-y; 
+	float:left;
+	display:inline;
+	text-align:center;
+	width:1000px;
+}
+#main_bg_r {
+	background:url(IMG/TAB_R_BG.png) repeat-y right;
+	float:left;
+	display:inline;
+	text-align:center;
+	width:999px;
+}
+#tab_l {
+	background:url(IMG/TAB_L_TOP.png) no-repeat top left;
+	margin:0;
+	margin-left:10px;
+	float:left;
+	width:190px;
+	display:inline;
+}
+#tab_l img {
+	float:left;
+	margin:0;
+}
+ul#tab_l_menu {
+	margin:13px 0;
+	padding: 0;
+	display: block;
+	font-size:0;
+	width:159px;
+	list-style-type: none;
+	text-align:left;
+}
+ul#tab_l_menu li{
+	width:190px;
+	margin:10px 0;
+}
+ul#tab_l_menu li img{
+	float:left;
+	margin:7px 0;
+}
+ul#tab_l_menu li p{
+	margin:0;
+	float:left;
+	color:#FFFFFF;
+	font-size:16px;
+	margin-bottom:10px;
+	margin-left:9px;
+	display:inline;
+}
+ul#tab_l_menu li a{
+	margin-left:20px;
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:16px;
+	display:inline;
+}
+ul#tab_l_menu li a:hover{
+	text-decoration:underline;
+}
+#tab_l_authorize {
+	float:left;
+	width: 149px;
+	height: 65px;
+	display:inline;
+	font-size:12px;
+	margin:20px;
+	margin-right:0;
+}
+#tab_l_authorize_table {
+	float:left;
+	border-collapse:collapse;
+}
+#tab_l_authorize_table tr td input {
+	float:right;
+	width:92px;
+	border:1px #7A6C5D solid;
+	background-color:#51291D;
+	color:#FFF;
+	height:14px;
+	margin-bottom:10px;
+}
+#tab_l_authorize_table p {
+	font-size:12px;
+	color:#FFF;
+	text-align:left;
+	vertical-align:middle;
+	margin:0;
+	margin-bottom:10px;
+	margin-right:10px;
+}
+#tab_l_authorize a{
+	font-size:12px;
+	float:left;
+	color:#848476;
+	width:45px;
+	color:#FFF;
+	text-decoration:none;
+	text-align:right;
+	margin:0;
+}
+#tab_l_authorize .tab_l_authorize_reg{
+	text-align:left;
+	width:90px;
+	color:#D6AF07;
+}
+#tab_l_authorize a:hover{
+	text-decoration:underline;
+}
+#tab_l_banner {
+	display:inline;
+	float:left;
+	margin:0;
+	padding:0;
+	margin-top:20px;
+	margin-left:30px;
+	width:125px;
+	height:125px;
+	background:#4a3307;
+	font-size:12px;
+	color:#FFF;
+	text-align:center;
+}
+#content {
+	float:left;
+	width:591px;
+	margin:0;
+	padding:0;
+}
+#content_head {
+	margin:0;
+	padding:0;
+	background:#623623;
+	width:590px;
+	border-top:1px solid #8a671b;
+	vertical-align:top;
+	text-align:left;
+}
+#content_head p {
+	width:570px;
+	margin:5px 10px;
+	font-size:24px;
+	color:#FFd800;
+}
+#content_head .content_head_sub {
+	color:#d5d2aa;
+	font-size:10px;
+	height:20px;
+}
+#content_text {
+	width:570px;
+	margin:5px 10px;
+	font-size:12px;
+	color:#d5d2aa;
+	text-align:left;
+	padding-top:10px;
+}
+#content_text a {
+	color:#ada32e;
+	text-decoration:underline;
+}
+#content_text_img {
+	float:left;
+	margin:20px;
+	width:auto;
+}
+#tab_r {
+	background:url(IMG/TAB_R_TOP.png) no-repeat top left;
+	font-size:14px;
+	float:left;
+	width:208px;
+}
+#tab_r_top {
+	color:#fff4bf;
+	font-size:24px;
+	text-align:center;
+	vertical-align:middle;
+	padding-top:10px;
+}
+ul#tab_r_news {
+	float:left;
+	width:208px;
+	list-style:none;
+	margin:0;
+	padding:0;
+	display:inline;
+}
+ul#tab_r_news li{
+	width:198px;
+	float:left;
+	text-align:left;
+	display:block;
+}
+#tab_r_news_item{
+	text-decoration:none;
+}
+#tab_r_news_item:hover{
+	color:#ffd800 !important;
+}
+#tab_r_news_item:hover span{
+	color:#ffd800 !important;
+}
+ul#tab_r_news li span {
+	display:block;
+	width:178px;
+	margin:5px 10px;
+}
+.tab_r_news_item_head{
+	color:#d9d96c;
+	font-size:16px;
+	text-decoration:none;
+}
+.tab_r_news_item_txt {
+	color:#937e64;
+	font-size:12px;
+	text-decoration:none;
+}
+.tab_r_news_item_date {
+	color:#b6ae8c;
+	font-size:12px;
+	text-align:right;
+	text-decoration:none;
+}
+#bot {
+	background: url(IMG/BOT.png) no-repeat;
+	width:1000px;
+	float:left;
+	height:33px;
+}
+#about {
+	float:left;
+	font-size:12px;
+	color:#988368;
+	padding:40px 30px;
+	padding-top:10px;
+}

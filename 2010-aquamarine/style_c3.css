@@ -1,0 +1,30 @@
+﻿#container {
+	padding-left: 240px;
+	padding-right: 280px;
+	overflow: hidden;
+	float: left; /* IE 5.01 */
+	float/**/: none;
+	height: auto !important;
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+}
+
+#left {
+	width: 240px;
+	margin-left: -100%;
+	right: 240px;
+}
+
+* html #left {
+	left: 280px;
+}
+
+#right {
+	width: 280px;
+	margin-right: -100%;
+}
+
+#content {
+	width: 100%;
+}
