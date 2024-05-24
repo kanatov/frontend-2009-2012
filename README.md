@@ -1,7 +1,7 @@
 # Archive projects 2009—2012
 
 ### Rikat, online store of car parts (2009)
-Front page for the Ecological after-school organisation of my home town.
+Development and design for an online store of car parts.
 
 [Main page](https://kanatov.github.io/frontend-2009-2012/2009-rikat/index.html), 
 [Trolley](https://kanatov.github.io/frontend-2009-2012/2009-rikat/basket.html), 
@@ -14,12 +14,19 @@ Front page for the Ecological after-school organisation of my home town.
 
 
 ### Children's Ecological Center (2009)
-Front page for the Ecological after-school organisation of my home town.
+Development and design of a web portal for Ecological after-school organisation of my home town. Volunteer contribution. 
+
 The html/css files not available.
 
 <img width="600" alt="DEC" src="https://kanatov.github.io/frontend-2009-2012/2009-dec-01.jpg">
 
+### Department of Industrial Electronics (2009)
+Volunteer contribution to my home town's Univercity website.
+
+[Main page](https://kanatov.github.io/frontend-2009-2012/2009-Department-of-Industrial-Electronics/index.html)
+
 <img width="600" alt="Department-of-Industrial-Electronics" src="https://kanatov.github.io/frontend-2009-2012/2009-Department-of-Industrial-Electronics.jpg">
+
 <img width="600" alt="Mazarini" src="https://kanatov.github.io/frontend-2009-2012/2009-MAZARINI.png">
 <img width="600" alt="FFA" src="https://kanatov.github.io/frontend-2009-2012/2012-FFA-1.png">
 <img width="600" alt="FFA" src="https://kanatov.github.io/frontend-2009-2012/2012-FFA-2.png">
