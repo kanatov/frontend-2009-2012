@@ -1,6 +1,17 @@
 # Archive projects 2009—2012
 
 
+### ProGL portal(2012)
+Development and design of a portal for Professional Gamers League. Freelance client.
+
+Html files are not available.
+
+<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-01.png">
+<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-04.png">
+<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-05.png">
+
+
+
 ### Marker toy, online store of kids' toys (2010)
 Web development on-site role, Intec.web.
 
@@ -44,16 +55,6 @@ Html files are not available.
 <img width="600" alt="DEC" src="https://kanatov.github.io/frontend-2009-2012/2009-dec-01.jpg">
 
 
-### ProGL portal(2009)
-Development and design of a portal for Professional Gamers League. Freelance client.
-
-Html files are not available.
-
-<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-01.png">
-<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-04.png">
-<img width="600" alt="ProGL" src="https://kanatov.github.io/frontend-2009-2012/2012-progl-01-05.png">
-
-
 
 ### Mazarini(2009)
 Flash based website development for a fashion agency. On-site, full time.
@@ -80,13 +81,3 @@ Volunteer contribution to my home town's Univercity website.
 [Main page](https://kanatov.github.io/frontend-2009-2012/2009-Department-of-Industrial-Electronics/index.html)
 
 <img width="600" alt="Department-of-Industrial-Electronics" src="https://kanatov.github.io/frontend-2009-2012/2009-Department-of-Industrial-Electronics.jpg">
-
-
-### Sinus, univercity website(2009)
-
-[Main page](https://kanatov.github.io/frontend-2009-2012/2009-SINUS/index.html), 
-[Post](https://kanatov.github.io/frontend-2009-2012/2009-SINUS/post.html), 
-[Media links](https://kanatov.github.io/frontend-2009-2012/2009-SINUS/media.html), 
-[Profile setup](https://kanatov.github.io/frontend-2009-2012/2009-SINUS/profile_setup.html)
-
-<img width="600" alt="Sinus" src="https://github.com/kanatov/frontend-2009-2012/assets/11691309/802c7659-ca5b-4c3c-931c-e206ee9f5edb">
